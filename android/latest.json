@@ -1,10 +1,10 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 6,
-  "versionName": "0.3.0",
+  "versionCode": 7,
+  "versionName": "0.3.1",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.0/huangdaxian-0.3.0.apk",
-  "sha256": "a55122f9af0b360d47fe327f062466d3697638f507574888c65182ae9c16699e",
-  "notes": "问卦必须选择测算对象；新增对象生辰与四柱参考、12课图解案例互动自测、卦象 PNG 保存到相册和系统图片分享；保留旧版未完成六爻及原有数据。",
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.1/huangdaxian-0.3.1.apk",
+  "sha256": "ed1f8d38e5efa1997679d09f78ccba46f058ce443922c11c4aad27809d0b3970",
+  "notes": "起卦页明确提示每日 1 卦（含会员），马来西亚时间零点重置；管理员不限。修复测算对象与生辰资料入口，压缩底部菜单与结果操作栏，新增掷钱、落爻及成卦短音效和关闭开关。重复查看已有卦象不计次数。",
   "publishedAt": "2026-11-19"
 }
