@@ -1,10 +1,10 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 10,
-  "versionName": "0.3.4",
+  "versionCode": 11,
+  "versionName": "0.3.5",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.4/huangdaxian-0.3.4.apk",
-  "sha256": "240fdbb8e412d2a7877b55ec01102139fa89e9f4065cb22ea42983c58f0aca2d",
-  "notes": "动土新增首选建议、推荐理由与其他候选；出生资料自动显示属相，房屋新增个人命卦参考；九类空间点开详细图解；户型图分层标方向、财星文昌和个人方位，支持保存标注图。出处用经典书名与篇目说明。",
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.5/huangdaxian-0.3.5.apk",
+  "sha256": "f757e0f6e5fc3f93be444aa81ffe9f3de7ebf06948cc04d84d974c890e233997",
+  "notes": "修复经典出处链接无法打开；个人方位图层改为校验签名会员凭证。完成核心流程、每日限卦、图片保存、户型标注、择日、课程、动画及更新安装回归。账号服务仍为本地联调，正式邮件和支付尚未启用。",
   "publishedAt": "2026-11-19"
 }
