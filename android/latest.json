@@ -1,0 +1,10 @@
+{
+  "packageName": "com.armonia.yijing",
+  "versionCode": 5,
+  "versionName": "0.2.3",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.2.3/huangdaxian-0.2.3.apk",
+  "sha256": "f54bff402fea1c87ee20617c9911697c9e7bbdd01b8d1202f6b62cb2a964ebdc",
+  "notes": "新增应用自动检查更新、下载与安装；修复管理员及会员断开后台后无法查看卦象；完善连接失败提示与起卦保留。",
+  "publishedAt": "2026-11-19"
+}
