@@ -1,10 +1,10 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 9,
-  "versionName": "0.3.3",
+  "versionCode": 10,
+  "versionName": "0.3.4",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.3/huangdaxian-0.3.3.apk",
-  "sha256": "8c22d489cb9f9658e17078683efdf455ae6e41958430175ef036b3975e7cf6d3",
-  "notes": "新增写实龟壳与立体铜钱起卦动画、豆包摇钱音效、正反面说明及免费动画预览；新增大事择日，支持九类事件、可选多人基础生辰六冲检查、宜忌与时辰对照及保存；房屋报告新增罗盘解析过渡动画。",
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.4/huangdaxian-0.3.4.apk",
+  "sha256": "240fdbb8e412d2a7877b55ec01102139fa89e9f4065cb22ea42983c58f0aca2d",
+  "notes": "动土新增首选建议、推荐理由与其他候选；出生资料自动显示属相，房屋新增个人命卦参考；九类空间点开详细图解；户型图分层标方向、财星文昌和个人方位，支持保存标注图。出处用经典书名与篇目说明。",
   "publishedAt": "2026-11-19"
 }
