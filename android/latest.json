@@ -1,10 +1,10 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 7,
-  "versionName": "0.3.1",
+  "versionCode": 9,
+  "versionName": "0.3.3",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.1/huangdaxian-0.3.1.apk",
-  "sha256": "ed1f8d38e5efa1997679d09f78ccba46f058ce443922c11c4aad27809d0b3970",
-  "notes": "起卦页明确提示每日 1 卦（含会员），马来西亚时间零点重置；管理员不限。修复测算对象与生辰资料入口，压缩底部菜单与结果操作栏，新增掷钱、落爻及成卦短音效和关闭开关。重复查看已有卦象不计次数。",
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.3/huangdaxian-0.3.3.apk",
+  "sha256": "8c22d489cb9f9658e17078683efdf455ae6e41958430175ef036b3975e7cf6d3",
+  "notes": "新增写实龟壳与立体铜钱起卦动画、豆包摇钱音效、正反面说明及免费动画预览；新增大事择日，支持九类事件、可选多人基础生辰六冲检查、宜忌与时辰对照及保存；房屋报告新增罗盘解析过渡动画。",
   "publishedAt": "2026-11-19"
 }
