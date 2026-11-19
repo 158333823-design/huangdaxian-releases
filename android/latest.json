@@ -1,10 +1,10 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 11,
-  "versionName": "0.3.5",
+  "versionCode": 12,
+  "versionName": "0.4.0",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.5/huangdaxian-0.3.5.apk",
-  "sha256": "f757e0f6e5fc3f93be444aa81ffe9f3de7ebf06948cc04d84d974c890e233997",
-  "notes": "修复经典出处链接无法打开；个人方位图层改为校验签名会员凭证。完成核心流程、每日限卦、图片保存、户型标注、择日、课程、动画及更新安装回归。账号服务仍为本地联调，正式邮件和支付尚未启用。",
-  "publishedAt": "2026-11-19"
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.4.0/huangdaxian-0.4.0.apk",
+  "sha256": "e816ece3594ab88971d1b2d9d90508c3ec3f97117c849b77e25e889ef66060e6",
+  "notes": "新增豆包AI完整白话解读与逐项案例，一次10积分，重看不扣分、失败退分。新增积分余额与明细，接入Google Play购买代码；真实充值待商店与验单授权配置，目前关闭。校正部分卦序、爻辞错配并保留旧笔记与收藏。账号仍为Mac本地联调。",
+  "publishedAt": "2026-11-20"
 }
