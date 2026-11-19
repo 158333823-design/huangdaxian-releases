@@ -1,10 +1,10 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 5,
-  "versionName": "0.2.3",
+  "versionCode": 6,
+  "versionName": "0.3.0",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.2.3/huangdaxian-0.2.3.apk",
-  "sha256": "f54bff402fea1c87ee20617c9911697c9e7bbdd01b8d1202f6b62cb2a964ebdc",
-  "notes": "新增应用自动检查更新、下载与安装；修复管理员及会员断开后台后无法查看卦象；完善连接失败提示与起卦保留。",
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.3.0/huangdaxian-0.3.0.apk",
+  "sha256": "a55122f9af0b360d47fe327f062466d3697638f507574888c65182ae9c16699e",
+  "notes": "问卦必须选择测算对象；新增对象生辰与四柱参考、12课图解案例互动自测、卦象 PNG 保存到相册和系统图片分享；保留旧版未完成六爻及原有数据。",
   "publishedAt": "2026-11-19"
 }
