@@ -1,10 +1,9 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 12,
-  "versionName": "0.4.0",
+  "versionCode": 13,
+  "versionName": "0.5.0",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.4.0/huangdaxian-0.4.0.apk",
-  "sha256": "e816ece3594ab88971d1b2d9d90508c3ec3f97117c849b77e25e889ef66060e6",
-  "notes": "新增豆包AI完整白话解读与逐项案例，一次10积分，重看不扣分、失败退分。新增积分余额与明细，接入Google Play购买代码；真实充值待商店与验单授权配置，目前关闭。校正部分卦序、爻辞错配并保留旧笔记与收藏。账号仍为Mac本地联调。",
-  "publishedAt": "2026-11-20"
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.5.0/huangdaxian-0.5.0.apk",
+  "sha256": "54dccc1b57be560b852661465573172f784ba6b9d29ec4a947f7937e7896080b",
+  "notes": "黄大仙 0.5.0\n\n- 首页新增随手一卦，不占正式问事次数。\n- 正式问事按每个测算对象每天一卦，管理员不限。\n- 两种模式均为纯全屏写实龟壳与铜钱，底部只保留圆形卦象标；摇一次出一爻，六次成卦，支持点按替代、音效和减弱动态。\n- 随手卦增加不显示数字的红绿卦义倾向线。\n- 完整解读含本卦、全部动爻、变卦、白话、案例与建议。取消积分界面；单份购买计划价为随手 RM2.66、正式 RM6.66，实际以 Google Play 为准。已购结果重看、生成失败重试及简繁切换不再收费。\n- 全软件支持简体、繁体及跟随系统，包括报告与图片文字；修复乾卦字形转换。\n- 保留现有账号、对象、卦记、户型与报告；请覆盖安装，不要卸载。\n\n本包为 USB 联调侧载版本，账号和在线完整解读仍需连接 Mac 本地后台。Google Play 商品与收款尚未开通，当前不会发起真实付款。本次不是 Google Play 上架包。\n\n“关于”主页已精简；第三方许可集中到单独声明页。\n"
 }
