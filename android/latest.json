@@ -1,9 +1,9 @@
 {
   "packageName": "com.armonia.yijing",
-  "versionCode": 20,
-  "versionName": "0.8.2",
+  "versionCode": 21,
+  "versionName": "0.8.3",
   "minSdk": 26,
-  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.8.2/huangdaxian-0.8.2.apk",
-  "sha256": "27c51fc43af0a73b0b698029c875088fccd8c7b57ad17795b6b628973a53e790",
-  "notes": "黄大仙 0.8.2 · 完整解读进度提示\n\n- 完整解读在读取状态和生成内容时显示流动进度条与处理提示。\n- 返回卦象解读页可继续看到正在处理的状态；完成后自动显示正文，失败或请求结束后收起进度条。\n- 适配繁体、窄屏与减少动态效果设置；后台未提供精确完成比例，因此不显示估算百分比。\n\n既有账号、卦记、户型与已解锁报告保留，付费及后台配置不变。\n"
+  "apkUrl": "https://github.com/158333823-design/huangdaxian-releases/releases/download/v0.8.3/huangdaxian-0.8.3.apk",
+  "sha256": "f85cdc1dad98ab403a7ce2f1d59a46fbafdd4b861fc7cf0446c7e395b764d9eb",
+  "notes": "黄大仙 0.8.3 · 主动更新提醒\n\n- 打开应用、回到前台及前台运行时自动检查更新（最多每 15 分钟联网检查一次）。\n- 发现新版后主动打开更新页；摇卦、解读或其他弹层操作中暂缓提醒，同一版本本次运行只主动提醒一次。\n- 点击「立即更新」后下载并校验，成功后自动打开安卓安装确认；保留原账号与记录。\n- 下载失败不会自动安装。小米身份验证、安装来源授权和安卓安装确认仍由本人操作。\n\n本机制在应用运行时检查，不是应用关闭后也能送达的系统推送。尚未更新到本版的用户，需要先使用旧版更新入口安装一次。\n"
 }
